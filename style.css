@@ -1,0 +1,79 @@
+body#main_body { background: #2c9e5c;}
+
+/*----Global---*/
+img {border:0;}
+a {color:#336699; text-decoration: underline;}
+a:hover {text-decoration:none;}
+form {padding:0; margin:0;}
+table {border-collapse: collapse;}
+td {vertical-align:top;}
+
+
+h1, h2, h3, h5 {font-weight:normal; margin:0;}
+h1 {font-size:260%;  padding:13px 81px 13px 51px; line-height:130%;}
+h2 {font-size:166%; color:#b37700; padding:14px 0 20px 0px; }
+h2 span {color:#000;}
+h3, dt {font-size:166%; color:#669900; padding:14px 0 20px 0px; }
+h3 a {}
+h5 {font-size:150%; color:#664400; margin:0; padding: 0 0 10px 0;}
+
+ul {margin:0; list-style-type: none; padding:0px 0 13px 0;}
+
+
+dl {margin:0; padding:0;}
+dd {margin:0; padding:2px 0 10px 0;}
+dd span {color:#446600; font-size:120%;}
+
+small {font-size:94%}
+
+p {margin:0; padding:6px 0;}
+
+#container {min-width: 762px; width:76.2%; margin:39px auto 0 auto; line-height:150%; font-size:95%; background: #e8fcf1 }
+#container_right_bg {background: transparent  100% }
+#container_top {width:100%; background: #e8fcf1 }
+#container_tl {width:50%; height:18px; background: transparent }
+#container_tr {width:50%; height:18px; background: transparent }
+#container_bt {background: #e8fcf1}
+#container_bl {width:18px; height:18px; background: transparent }
+#container_br {width:18px; height:18px; background: transparent }
+
+#content {width:100%; margin:0 0 28px 0; }
+
+.line { display:block; font-size:0; border-bottom:1px solid #ccd39d; margin:37px -50px 3px -25px; position: relative; }
+
+.short_info {margin:12px 0 52px 0; line-height:240%; width:100%;}
+.short_info span {color:#669900; font-size:120%;}
+.short_info td {padding:0 81px 0 0;}
+.short_info td.photo {width:20%; padding:0 0px 0 0;}
+
+.photo table {margin: 0 50px 0 100px;}
+.photo table td  {padding:0;}
+.photo img {margin: 3px 6px 6px 6px}
+.photo_white {background:#fff;}
+.none {font-size:0;}
+.shadow_tr {height:3px; padding:0 0 0 3px;  background:transparent }
+.shadow_bl {height:3px; width:3px;  }
+.shadow_br {height:3px; width:3px;  background:transparent }
+.shadow_b {height:3px; width:100%;  background:transparent }
+.shadow_r {width:3px;  background:transparent}
+
+.profess {background:#c2f0d5; width:100%; margin: 0 0 15px 0;}
+.profess ul li {padding: 0 0 14px 18px;}
+
+.chronicle  td {padding-bottom:23px; }
+.chronicle .date {width:130px; padding:0 30px 23px 50px; font-size:150%; color:#664400;}
+.chronicle span {font-size:120%; color:#664400;}
+.exper p {padding: 0 0 12px 0;}
+.exper td {padding-bottom:11px;}
+.block { padding: 10px 81px 0 51px; }
+
+.allwidth {width:100%;}
+.width50 {width:50%;}
+.padleft32 {padding-left:32px;}
+.padleft25 {padding-left:40px;}
+
+#footer {background:#fff; padding: 18px 81px 65px 51px; color:#999999; font-size:80%;}
+#footer a {color:#999999;}
+.footer_logo {padding: 3px 10px 0 130px; width:42px;}
+.footer_right, .footer_right a {color:#555555 !important;}
+
